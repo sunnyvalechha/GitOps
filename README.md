@@ -11,3 +11,14 @@ GitOps is a DevOps framework that uses Git repositories to manage infrastructure
 * Versioned and Immutable -
 * Pulled Automatically -
 * Continuously Reconciled - 
+
+
+**Advantages of GitOps**
+
+* Security
+* Versioning
+* Auto Upgrades
+* Auto Healing of unwanted changes
+* Continues reconciliation
+
+  
